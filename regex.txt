@@ -1,0 +1,2 @@
+s,\(.*\),ab -c 3 -n 39 -m POST https://bikeincidents-womack.apps.tas-resources.womack.club/\?zipCode\=\1,g
+
